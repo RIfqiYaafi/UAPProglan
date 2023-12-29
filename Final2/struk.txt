@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+                    STRUK PEMBAYARAN SEWA MOBIL                     
+--------------------------------------------------------------------
+Nama Penyewa        : 
+Nomor Handphone     : 
+Nomor Pemesanan     : 1
+Mobil               : null
+Durasi Sewa         :  hari
+Total Biaya         : 
+Tanggal Penyewaan   : null
+Tanggal Pengembalian: null
+--------------------------------------------------------------------
+Terima kasih telah menggunakan layanan kami!
